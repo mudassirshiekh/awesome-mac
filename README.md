@@ -51,7 +51,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 <!--idoc:ignore:start-->
 
 ## Contents
-
+## By Mudassir Alam
 - [Awesome Mac](#awesome-mac)
 - [Contents](#contents)
 - [Reading and Writing Tools](#reading-and-writing-tools)
